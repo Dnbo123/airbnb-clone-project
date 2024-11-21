@@ -45,6 +45,7 @@ Importance of Identifying Design Properties:
 Identifying design properties from a mockup is essential for ensuring consistency between the visual design and the developed application. It helps to Maintain brand identity by adhering to the planned color schemes and typography,it ensures a consistent look and feel across all screens and components. It facilitates collaboration between designers and developers, as clearly defined properties reduce uncertainity and also streamlines the development process by providing a clear reference for styling and UI implementation.
 
 Project Roles and Responsibilities
+
 Project Manager
 Key Responsibilities:
 Oversee project progress and ensure milestones are met.
